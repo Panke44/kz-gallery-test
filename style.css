@@ -24,7 +24,14 @@
     object-position: center;
 }
 
-.img-grid:hover{
-    transform: scale(1.1);
-    transition: 0.5s ease;
+.slika{
+    width: 500px;
+    height: 500px;
+    
 }
+
+.galeri{
+    display: block;
+    margin: auto;
+}
+
